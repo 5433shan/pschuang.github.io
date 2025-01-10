@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.21155c5b.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.21155c5b.js.map": "/home/static/js/main.21155c5b.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/pschuang.github.io/home/static/css/main.fe927caf.css",
+    "main.js": "/pschuang.github.io/home/static/js/main.82764f58.js",
+    "static/js/787.4b24f717.chunk.js": "/pschuang.github.io/home/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/pschuang.github.io/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/pschuang.github.io/home/index.html",
+    "main.fe927caf.css.map": "/pschuang.github.io/home/static/css/main.fe927caf.css.map",
+    "main.82764f58.js.map": "/pschuang.github.io/home/static/js/main.82764f58.js.map",
+    "787.4b24f717.chunk.js.map": "/pschuang.github.io/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.21155c5b.js"
+    "static/js/main.82764f58.js"
   ]
 }
