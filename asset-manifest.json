@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pschuang.github.io/static/css/main.fe927caf.css",
-    "main.js": "/pschuang.github.io/static/js/main.4e6cfd9e.js",
-    "static/js/787.4b24f717.chunk.js": "/pschuang.github.io/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/pschuang.github.io/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "index.html": "/pschuang.github.io/index.html",
-    "main.fe927caf.css.map": "/pschuang.github.io/static/css/main.fe927caf.css.map",
-    "main.4e6cfd9e.js.map": "/pschuang.github.io/static/js/main.4e6cfd9e.js.map",
-    "787.4b24f717.chunk.js.map": "/pschuang.github.io/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.f561263d.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.f561263d.js.map": "/static/js/main.f561263d.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.4e6cfd9e.js"
+    "static/js/main.f561263d.js"
   ]
 }
